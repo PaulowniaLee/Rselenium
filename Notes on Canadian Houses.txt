@@ -1,0 +1,13 @@
+Notes on Canadian houses:
+1. collected on 2024/08/29
+2. search condition: below 1M, condo house, in the area of British Columbia, greater Vancouver 
+3. site: https://sothebysrealty.ca/en/
+4. variable list
+price: price of property 
+address: address
+squares: square feet of house
+type: residential type, all identical 
+year: year built of the house
+bed: number of bedrooms
+bath: number of bathrooms
+tax: property taxes of the house (mostly unavailable)
